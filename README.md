@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi, I'm Mia 👋
 
 ## 🎓 Front-End Development Student at Noroff
